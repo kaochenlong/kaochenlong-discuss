@@ -1,5 +1,5 @@
 {
   "defaultCommentOrder": "newest",
-  "origins": ["https://kaochenlong.com"],
+  "origins": ["https://kaochenlong.com", "https://pythonbook.cc", "https://rustbook.cc", "https://jsbook.tw/", "https://n8nbook.cc"],
   "originsRegex": ["http://localhost:[0-9]+", "http://127\\.0\\.0\\.1:[0-9]+"]
 }
